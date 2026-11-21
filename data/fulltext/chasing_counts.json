@@ -1,0 +1,15 @@
+{
+ "backward_refs_total": 16615,
+ "forward_cites_total": 13867,
+ "sources_chased": 555,
+ "sources_included_studies": 363,
+ "sources_competing_reviews": 179,
+ "sources_flag13_retained": 13,
+ "unique_new_candidates": 13651,
+ "title_plausible_for_abstract_fetch": 1667,
+ "abstracts_fetched": 1266,
+ "both_include_TA": 12,
+ "single_include_disagreement": 72,
+ "both_exclude_TA": 13567,
+ "repair_note": "Regenerated 2026-11-20 from existing chasing_candidates.csv after fixing DictWriter extrasaction bug in citation_chasing.py (both_include writer raised ValueError: dict contains fields not in fieldnames: 'B','A','prefilter'). Collection/screening data unchanged; no re-run of Europe PMC chasing."
+}

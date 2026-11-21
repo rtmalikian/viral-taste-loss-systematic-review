@@ -1,0 +1,97 @@
+record_id,decision,reason
+R01777,INCLUDE,Cross-sectional n=277; taste loss reported separately (sensitivity 6.9%) in COVID-19
+R01781,INCLUDE-TASTE-AMBIGUOUS,Cohort n=1000 measures smell only; ageusia mentioned but no separate taste data
+R01787,INCLUDE-TASTE-AMBIGUOUS,Cross-sectional n=350; chemosensory outcome combined with no separate taste prevalence in abstract
+R01794,INCLUDE,Pilot survey n=83 discriminates taste as a separate modality in COVID-19
+R01798,EXCLUDE,Narrative overview of neuro-COVID with no original data; review/editorial excluded
+R01832,EXCLUDE,Review article on chemosensory disorders; no original data; citation-chasing only
+R01838,EXCLUDE,Hypothesis/proposal on zinc and anosmia with no original patient data
+R01844,INCLUDE,Case-control n=224; taste change reported separately (72% of positives)
+R01861,INCLUDE-TASTE-AMBIGUOUS,Olfactory threshold study only; taste dysfunction recorded but no separate taste results
+R01864,INCLUDE,Retrospective cohort n=1206; loss of taste reported separately (20.6%) with scores
+R01869,INCLUDE-TASTE-AMBIGUOUS,Psychophysical testing is olfactory only; smell/taste self-report combined with no separate taste data
+R01876,EXCLUDE,No abstract; title indicates dermatological drug causes with no separable viral taste data shown
+R01878,INCLUDE,Cohort n=119; gustatory dysfunction recovery reported separately (69.2%)
+R01880,EXCLUDE,Literature review of chemosensory systems; no original data
+R01884,INCLUDE,Case-control n=777; loss of taste predictive separately (OR 2.42) in COVID-19
+R01887,EXCLUDE,Narrative review explicitly; no original data; citation-chasing only
+R01888,EXCLUDE,Single case report of reversible taste loss; case reports under 10 excluded
+R01895,EXCLUDE,Therapeutic support protocol with no data reported
+R01903,EXCLUDE,No abstract; hypothesis/editorial piece on erectile dysfunction with no original taste data
+R01908,INCLUDE,Prospective study n=250; gustatory dysfunction reported (66.4% with both) in COVID-19
+R01911,EXCLUDE,Single case report of taste/smell alteration as sole manifestation; under 10 excluded
+R01916,INCLUDE,Prospective study n=141 adolescents; dysgeusia reported separately (24.1%)
+R01918,EXCLUDE,Literature overview/review of olfactory dysfunction; no original data
+R01923,INCLUDE-TASTE-AMBIGUOUS,Objective testing is smell identification only; no taste measurement or separate taste results
+R01938,INCLUDE,Prospective study n=94 with smell and taste tests; taste impairment reported separately
+R01953,INCLUDE-TASTE-AMBIGUOUS,Clinical testing is olfactory (CODA) only; gustatory dysfunction not separately measured
+R01955,INCLUDE-TASTE-AMBIGUOUS,Zinc treatment study n=134; recovery reported for gustatory and/or olfactory function combined only
+R01960,INCLUDE,Prospective cohort n=111; gustatory function tested separately with taste strips (26% dysfunction)
+R01962,INCLUDE,Retrospective study n=1022; ageusia reported separately (51.4%)
+R01977,EXCLUDE,Single case report (anosmia/ageusia with skin lesion treated with doxycycline); under 10 excluded; no abstract
+R01979,EXCLUDE,Survey of medical students awareness/knowledge; not patients with viral taste dysfunction and no taste outcome data
+R01983,INCLUDE-TASTE-AMBIGUOUS,Large surveillance study; anosmia/ageusia analysed as a combined symptom with no separate taste estimate
+R01984,EXCLUDE,Study protocol with recruitment ongoing and no results data; protocols excluded
+R01985,INCLUDE-TASTE-AMBIGUOUS,Cross-sectional n=292; smell/taste disorders reported combined with no separate taste prevalence
+R01986,INCLUDE,Objective testing study n=100 severe COVID-19; taste dysfunction reported separately (47%)
+R01988,EXCLUDE,Narrative article on mechanism/frequency/prognosis with no original data; review/editorial excluded
+R01993,EXCLUDE,No abstract; RAAS hypothesis piece with no original data shown
+R01998,EXCLUDE,Single case report of EBV mononucleosis with taste loss; case reports under 10 excluded
+R02002,INCLUDE-TASTE-AMBIGUOUS,Case-control n=126 children; anosmia and/or dysgeusia combined and objective test is odour only
+R02007,EXCLUDE,Abstract states reinfection anosmia/dysgeusia occurrence is yet to be ascertained; no original data presented
+R02021,INCLUDE,ICU study n=52; taste impairment reported separately (19 patients with hypogeusia/ageusia detail)
+R02026,EXCLUDE,Editorial/commentary summarising emerging evidence; no original data
+R02030,INCLUDE,Cross-sectional study; self-reported taste loss reported separately (42%)
+R02056,EXCLUDE,Review assembling knowledge on olfactory/gustatory dysfunction; no original data
+R02061,EXCLUDE,Report of first cases of reinfection dysfunctions; case series not clearly 10 or more and no abstract data
+R02073,EXCLUDE,Literature overview/review on smell impairment mechanisms; no original data
+R02083,EXCLUDE,Single case report of Guillain-Barre with taste loss; case reports under 10 excluded
+R02087,EXCLUDE,Review of taste loss causes; no original viral taste data
+R02088,EXCLUDE,Three paediatric cases of anosmia/ageusia; case series under 10 excluded
+R02093,EXCLUDE,Small case report of anosmia/ageusia presentation with no denominator or series of 10 or more
+R02104,INCLUDE,Retrospective study n=75; olfactory and gustatory recovery tracked in COVID-19 patients
+R02107,INCLUDE,Study n=52 with anosmia; gustatory dysfunction reported separately (82.6%)
+R02116,INCLUDE-TASTE-AMBIGUOUS,Population self-report analysis; smell/taste changes analysed combined with no separate taste data
+R02123,EXCLUDE,No abstract; potential mechanisms piece with no original data shown; review/hypothesis excluded
+R02127,EXCLUDE,Editorial commentary on two published survey studies; no original primary data
+R02132,INCLUDE,Comparative study n=160; taste dysfunction frequency reported for COVID-19 versus non-COVID-19
+R02137,INCLUDE,Prospective cross-sectional study; taste dysfunction reported separately (10.9%)
+R02145,INCLUDE,Cohort n=590 with acute smell/taste loss; taste loss reported separately by antibody status
+R02147,EXCLUDE,Described as a review of taste and smell loss; no original data; citation-chasing only
+R02149,EXCLUDE,Hypothesis/discussion of D614G variant and chemosensory dysfunction; no original patient data
+R02156,INCLUDE-TASTE-AMBIGUOUS,Cross-sectional n=10069; gustatory dysfunction reported only as concomitant combined figure with no separate taste prevalence
+R02161,EXCLUDE,No abstract; apparent single-case/editorial piece on ageusia and dental presentation with no original study data
+R02162,EXCLUDE,No abstract; mechanisms piece on dysgeusia with no original data shown; review/hypothesis excluded
+R02177,EXCLUDE,Hypothesis review explicitly; no original data; citation-chasing only
+R02196,INCLUDE,Prospective survey n=655; general taste disturbance reported separately (76.2%) with taste qualities
+R02199,INCLUDE-TASTE-AMBIGUOUS,Study n=57 collects ageusia data but abstract reports only smell test results; no separate taste results
+R02202,INCLUDE-TASTE-AMBIGUOUS,Imaging study of olfactory apparatus only; dysgeusia mentioned but taste not measured separately
+R02204,INCLUDE-TASTE-AMBIGUOUS,Cohort n=91 has taste spray testing but abstract reports only olfactory results; no separate taste results
+R02205,INCLUDE,Cross-sectional n=197 COVID-19 plus controls; taste loss reported separately (65%)
+R02208,INCLUDE,Records study n=1197; dysgeusia reported separately (43.9%)
+R02219,EXCLUDE,No abstract; apparent editorial/overview covering several topics with no original taste study data shown
+R02223,EXCLUDE,Editorial narrative on COVID-19 and anosmia; no original data
+R02227,EXCLUDE,Care pathway/service description with no original taste outcome data
+R02232,INCLUDE,Questionnaire study n=65 respondents; total loss of taste and its duration reported separately among symptomatic participants
+R02237,INCLUDE,Observational study n=67; improvement in taste function correlated separately with IL-6 decrease
+R02238,INCLUDE,Prospective multicentre study n=138; gustatory function and taste persistence risk reported separately
+R02244,INCLUDE,Retrospective study n=70; dysgeusia reported separately (48%)
+R02257,EXCLUDE,Overview paper on paediatric taste/smell problems; no original cohort data with denominator
+R02258,EXCLUDE,Narrative tale/review of smell and taste loss across countries; no original data
+R02259,EXCLUDE,No abstract; apparent small case presentation of anosmia/ageusia carriers with no series of 10 or more shown
+R02260,INCLUDE,Questionnaire study n=109; gustatory loss recovery reported separately (50% fully recovered)
+R02269,EXCLUDE,No abstract; possible mechanisms piece on dysgeusia with no original data shown; review/hypothesis excluded
+R02270,FLAG-AUTHOR,No abstract retrieved; title alone does not show study design or sample size so eligibility cannot be settled at title/abstract stage
+R02276,EXCLUDE,Letter/editorial-style piece on altered smell or taste in long-lasting symptoms; no original data presented
+R02284,FLAG-AUTHOR,No abstract retrieved; title alone does not show whether this is a case report or a designed study of 10 or more so eligibility cannot be settled
+R02289,EXCLUDE,Hypothesis report proposing a CXCL10 role; no original patient data
+R02291,INCLUDE,Study n=49 with anosmia in COVID-19; taste disturbance reported separately (75.5%)
+R02292,EXCLUDE,Narrative review/hypothesis on obesity and oro-naso-sensory perception; states no direct report and presents no original data
+R02294,INCLUDE,Prospective cohort; taste disorder reported in 80% of the isolated smell-loss subset and diagnostic analysis includes taste
+R02302,INCLUDE,Questionnaire study n=172; loss of taste reported separately (47.1%) with recovery time
+R02307,EXCLUDE,No abstract; apparent editorial/red-flag piece with no original data shown
+R02309,INCLUDE-TASTE-AMBIGUOUS,Cross-sectional n=140 enrolled for olfactory/gustatory disorders but abstract reports olfactory recovery only with no separate taste results
+R02310,INCLUDE,Prospective cross-sectional n=114; severity of loss of taste assessed and analysed separately for mood/anxiety associations
+R02313,INCLUDE,Study n=86; hypogeusia reported separately (38.4%) with duration
+R02314,INCLUDE-TASTE-AMBIGUOUS,Survey n=202; altered smell or taste analysed as a combined outcome with no separate taste figures
+R02315,EXCLUDE,Treatment recommendations piece with no abstract and no original data; editorial/review excluded

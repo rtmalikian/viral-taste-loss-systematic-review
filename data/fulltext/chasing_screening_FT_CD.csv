@@ -1,0 +1,55 @@
+chase_id,retrieval,C,C_reason,D,D_reason,provisional,Q
+C0174,RETRIEVED,INCLUDE,"C-pass: taste separately reported, viral, original full-text data",INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",INCLUDE,Q1;Q2;Q3
+C0464,RETRIEVED,INCLUDE,"C-pass: taste separately reported, viral, original full-text data",INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",INCLUDE,Q1;Q2;Q3
+C10044,RETRIEVED,INCLUDE,"C-pass: taste separately reported, viral, original full-text data",INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",INCLUDE,Q1;Q2
+C10140,RETRIEVED,INCLUDE,"C-pass: taste separately reported, viral, original full-text data",INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",INCLUDE,Q1;Q2;Q3
+C10400,RETRIEVED,INCLUDE,"C-pass: taste separately reported, viral, original full-text data",INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",INCLUDE,Q1;Q2;Q3
+C11061,RETRIEVED,INCLUDE,"C-pass: taste separately reported, viral, original full-text data",INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",INCLUDE,Q1;Q2;Q3
+C11361,NOT_RETRIEVED_NO_OA,,,,,NOT_RETRIEVED,
+C11368,NOT_RETRIEVED_NO_OA,,,,,NOT_RETRIEVED,
+C11369,RETRIEVED,INCLUDE,"C-pass: taste separately reported, viral, original full-text data",INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",INCLUDE,Q1;Q2
+C11416,RETRIEVED,EXCLUDE,C-R5 taste not separately reported/measured in full text (olfaction/flavour only),INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",DISAGREE,Q1;Q2;Q3
+C11760,NOT_RETRIEVED_PAYWALLED_OR_CLOSED,,,,,NOT_RETRIEVED,
+C11842,RETRIEVED,EXCLUDE,C-R3 taste-specific terms sparse in full text (0) - no extractable taste data,INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",DISAGREE,Q1;Q3
+C11888,RETRIEVED,INCLUDE,"C-pass: taste separately reported, viral, original full-text data",INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",INCLUDE,Q1;Q2;Q3
+C1260,NOT_RETRIEVED_NO_OA,,,,,NOT_RETRIEVED,
+C12934,RETRIEVED,EXCLUDE,C-R5 taste not separately reported/measured in full text (olfaction/flavour only),INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",DISAGREE,Q1;Q3
+C2161,RETRIEVED,EXCLUDE,C-R5 taste not separately reported/measured in full text (olfaction/flavour only),INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",DISAGREE,Q1;Q2;Q3
+C2324,NOT_RETRIEVED_NO_OA,,,,,NOT_RETRIEVED,
+C2679,NOT_RETRIEVED_NO_OA,,,,,NOT_RETRIEVED,
+C2971,RETRIEVED,EXCLUDE,C-R3 taste-specific terms sparse in full text (2) - no extractable taste data,INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",DISAGREE,Q1;Q2;Q3
+C3145,NOT_RETRIEVED_PAYWALLED_OR_CLOSED,,,,,NOT_RETRIEVED,
+C3251,RETRIEVED,EXCLUDE,C-R3 taste-specific terms sparse in full text (0) - no extractable taste data,EXCLUDE,D-R3 no extractable taste outcome data and no mechanistic evidence in full text,EXCLUDE,
+C3275,NOT_RETRIEVED_NO_OA,,,,,NOT_RETRIEVED,
+C3348,NOT_RETRIEVED_NO_OA,,,,,NOT_RETRIEVED,
+C4165,NOT_RETRIEVED_NO_OA,,,,,NOT_RETRIEVED,
+C4367,RETRIEVED,EXCLUDE,C-R5 taste not separately reported/measured in full text (olfaction/flavour only),EXCLUDE,D-R5 olfaction-only study,EXCLUDE,
+C4506,RETRIEVED,INCLUDE,"C-pass: taste separately reported, viral, original full-text data",INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",INCLUDE,Q1;Q2;Q3
+C4631,RETRIEVED,INCLUDE,"C-pass: taste separately reported, viral, original full-text data",INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",INCLUDE,Q1;Q2;Q3
+C4925,NOT_RETRIEVED_NO_OA,,,,,NOT_RETRIEVED,
+C5051,RETRIEVED,INCLUDE,"C-pass: taste separately reported, viral, original full-text data",INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",INCLUDE,Q1;Q3
+C5334,RETRIEVED,EXCLUDE,C-R3 taste-specific terms sparse in full text (2) - no extractable taste data,INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",DISAGREE,Q1;Q2;Q3
+C5636,NOT_RETRIEVED_PAYWALLED_OR_CLOSED,,,,,NOT_RETRIEVED,
+C5642,RETRIEVED,EXCLUDE,C-R3 taste-specific terms sparse in full text (2) - no extractable taste data,EXCLUDE,D-R3 no extractable taste outcome data and no mechanistic evidence in full text,EXCLUDE,
+C6216,RETRIEVED,EXCLUDE,C-R3 taste-specific terms sparse in full text (2) - no extractable taste data,INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",DISAGREE,Q1;Q2;Q3
+C6285,RETRIEVED,EXCLUDE,C-R5 taste not separately reported/measured in full text (olfaction/flavour only),EXCLUDE,D-R3 no extractable taste outcome data and no mechanistic evidence in full text,EXCLUDE,
+C6691,NOT_RETRIEVED_PAYWALLED_OR_CLOSED,,,,,NOT_RETRIEVED,
+C6826,RETRIEVED,INCLUDE,"C-pass: taste separately reported, viral, original full-text data",INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",INCLUDE,Q1;Q2;Q3
+C6862,RETRIEVED,EXCLUDE,C-R3 taste-specific terms sparse in full text (2) - no extractable taste data,INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",DISAGREE,Q1;Q2;Q3
+C7163,RETRIEVED,INCLUDE,"C-pass: taste separately reported, viral, original full-text data",INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",INCLUDE,Q1;Q2;Q3
+C8299,NOT_RETRIEVED_NO_OA,,,,,NOT_RETRIEVED,
+C8376,RETRIEVED,EXCLUDE,C-R3 taste-specific terms sparse in full text (2) - no extractable taste data,EXCLUDE,D-R5 olfaction-only study,EXCLUDE,
+C8383,RETRIEVED,INCLUDE,"C-pass: taste separately reported, viral, original full-text data",INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",INCLUDE,Q1;Q2;Q3
+C8424,RETRIEVED,INCLUDE,"C-pass: taste separately reported, viral, original full-text data",INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",INCLUDE,Q1;Q2;Q3
+C8500,RETRIEVED,INCLUDE,"C-pass: taste separately reported, viral, original full-text data",INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",INCLUDE,Q1;Q2;Q3
+C8521,RETRIEVED,INCLUDE,"C-pass: taste separately reported, viral, original full-text data",INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",INCLUDE,Q1
+C8537,NOT_RETRIEVED_PAYWALLED_OR_CLOSED,,,,,NOT_RETRIEVED,
+C8582,RETRIEVED,INCLUDE,"C-pass: taste separately reported, viral, original full-text data",INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",INCLUDE,Q1;Q3
+C8591,NOT_RETRIEVED_NO_OA,,,,,NOT_RETRIEVED,
+C8751,NOT_RETRIEVED_NO_OA,,,,,NOT_RETRIEVED,
+C8845,NOT_RETRIEVED_NO_OA,,,,,NOT_RETRIEVED,
+C8932,RETRIEVED,INCLUDE,"C-pass: taste separately reported, viral, original full-text data",INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",INCLUDE,Q1;Q2;Q3
+C9251,RETRIEVED,EXCLUDE,C-R5 taste not separately reported/measured in full text (olfaction/flavour only),INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",DISAGREE,Q1;Q2;Q3
+C9551,RETRIEVED,EXCLUDE,C-R5 taste not separately reported/measured in full text (olfaction/flavour only),INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",DISAGREE,Q1
+C9598,NOT_RETRIEVED_NO_OA,,,,,NOT_RETRIEVED,
+C9634,RETRIEVED,INCLUDE,"C-pass: taste separately reported, viral, original full-text data",INCLUDE,"D-pass: extractable taste outcome and/or mechanistic evidence, viral link present",INCLUDE,Q1;Q2;Q3

@@ -1,0 +1,24 @@
+{
+ "retrieved_total": 5988,
+ "pubmed": 2720,
+ "europepmc": 2816,
+ "ctgov": 452,
+ "duplicates_removed": 2487,
+ "screened_TA": 3501,
+ "both_include": 413,
+ "both_exclude": 2704,
+ "disagreements_adjudicated": 384,
+ "adjudication_outcomes": {
+  "INCLUDE": 128,
+  "INCLUDE-TASTE-AMBIGUOUS": 93,
+  "EXCLUDE": 150,
+  "FLAG-AUTHOR": 13
+ },
+ "final_TA_include": 541,
+ "final_TA_include_taste_ambiguous": 93,
+ "proceed_to_full_text": 634,
+ "flag_author": 13,
+ "excluded_TA": 2854,
+ "kappa": 0.6184,
+ "observed_agreement": 0.8903
+}

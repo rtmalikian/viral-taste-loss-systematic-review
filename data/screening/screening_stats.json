@@ -1,0 +1,14 @@
+{
+ "n": 3501,
+ "both_include": 413,
+ "both_exclude": 2704,
+ "A_only_include": 94,
+ "B_only_include": 290,
+ "disagreements": 384,
+ "observed_agreement": 0.8903,
+ "expected_agreement": 0.7125,
+ "cohen_kappa": 0.6184,
+ "duplicates_removed": 2487,
+ "retrieved_total": 5988,
+ "preprints_in_epmc": 418
+}

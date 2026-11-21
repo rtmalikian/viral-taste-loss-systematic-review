@@ -1,0 +1,37 @@
+{
+ "status": "TA SCREENING COMPLETE \u2014 bug fixed, outputs regenerated; adjudication + full-text retrieval pending",
+ "run_started": "2026-11-20 (555-source run, chasing_run2.log)",
+ "bug_fixed": "2026-11-20 22:36 PT \u2014 citation_chasing.py both_include DictWriter missing extrasaction='ignore'; fixed in script and outputs regenerated from chasing_candidates.csv without re-running collection",
+ "log": "fulltext/chasing_run2.log",
+ "sources": 555,
+ "sources_composition": {
+  "included_studies": 363,
+  "competing_reviews_guidelines": 179,
+  "flag13_retained": 13
+ },
+ "counts": {
+  "backward_refs_total": 16615,
+  "forward_cites_total": 13867,
+  "sources_chased": 555,
+  "sources_included_studies": 363,
+  "sources_competing_reviews": 179,
+  "sources_flag13_retained": 13,
+  "unique_new_candidates": 13651,
+  "title_plausible_for_abstract_fetch": 1667,
+  "abstracts_fetched": 1266,
+  "both_include_TA": 12,
+  "single_include_disagreement": 72,
+  "both_exclude_TA": 13567,
+  "repair_note": "Regenerated 2026-11-20 from existing chasing_candidates.csv after fixing DictWriter extrasaction bug in citation_chasing.py (both_include writer raised ValueError: dict contains fields not in fieldnames: 'B','A','prefilter'). Collection/screening data unchanged; no re-run of Europe PMC chasing."
+ },
+ "outputs": [
+  "fulltext/chasing_candidates.csv",
+  "fulltext/chasing_counts.json",
+  "fulltext/chasing_both_include.csv"
+ ],
+ "remaining_after_this_run": [
+  "adjudication by reading of all 72 A/B disagreements among chasing candidates",
+  "full-text retrieval (legitimate routes) for chasing TA includes (12 both-include + any adjudicated includes)",
+  "merging any chasing inclusions into final_included.csv and PRISMA"
+ ]
+}

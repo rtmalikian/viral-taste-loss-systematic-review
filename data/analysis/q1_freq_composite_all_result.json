@@ -1,0 +1,18 @@
+{
+ "label": "q1_freq_composite_all",
+ "k": 27,
+ "crude_events": 7571,
+ "crude_total": 34402,
+ "crude_proportion": 0.22007441427823965,
+ "pooled_proportion": 0.34178322985258647,
+ "ci_lo": 0.2528563942716906,
+ "ci_hi": 0.44342345230402125,
+ "tau2_logit": 1.1459290992984226,
+ "I2_percent": 99.39165774991477,
+ "Q": 4273.909957159417,
+ "Q_df": 26,
+ "Q_p": 0.0,
+ "pi_lo": 0.05208498941442478,
+ "pi_hi": 0.8307107446605988,
+ "method": "logit proportions; REML tau2 (profile likelihood); Hartung-Knapp CI; PI t(k-2)"
+}

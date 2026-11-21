@@ -1,0 +1,18 @@
+{
+ "label": "q1_freq_hospitalised",
+ "k": 55,
+ "crude_events": 4324,
+ "crude_total": 25150,
+ "crude_proportion": 0.17192842942345923,
+ "pooled_proportion": 0.26834103044063506,
+ "ci_lo": 0.2217454234992202,
+ "ci_hi": 0.3206931963647824,
+ "tau2_logit": 0.8293076575054259,
+ "I2_percent": 98.32741215450235,
+ "Q": 3228.5299779835154,
+ "Q_df": 54,
+ "Q_p": 0.0,
+ "pi_lo": 0.054836824797933094,
+ "pi_hi": 0.6986513521385016,
+ "method": "logit proportions; REML tau2 (profile likelihood); Hartung-Knapp CI; PI t(k-2)"
+}

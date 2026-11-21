@@ -1,0 +1,190 @@
+{
+ "abstract_only_stratum_total_SEPARATE": {
+  "chasing_include": 16,
+  "chasing_records": 19,
+  "note": "Abstract-only strata are reported separately in every count and are never merged with the full-text inclusions (363 after the Phase 6 eligibility-consistency step).",
+  "phase2_include": 90,
+  "phase2_records": 232
+ },
+ "citation_chasing": {
+  "FT_adjudication_by_reading": {
+   "exclude": 9,
+   "file": "fulltext/chasing_adjudication/ft_decisions.csv",
+   "flag_author_settled_at_FT": {
+    "C6285": "EXCLUDE (correspondence, no original data)",
+    "C8424": "INCLUDE (both FT screeners)",
+    "C9551": "EXCLUDE (letter, no original data)"
+   },
+   "include": 6,
+   "note": "10 C/D disagreements + 5 both-exclude verification reads",
+   "overturned_both_exclude_to_include": [
+    "C3251",
+    "C4367"
+   ],
+   "records_read": 15
+  },
+  "FT_dual_screening": {
+   "agreement": 0.7143,
+   "both_exclude": 5,
+   "both_include": 20,
+   "disagreements": 10,
+   "file": "fulltext/chasing_screening_FT_CD.csv",
+   "kappa": 0.3636,
+   "retrieved_screened": 35
+  },
+  "TA_adjudication_by_reading": {
+   "exclude": 30,
+   "file": "fulltext/chasing_adjudication/chasing_adjudication_merged.csv",
+   "flag_author": 3,
+   "include": 39,
+   "records": 72
+  },
+  "TA_includes_total": 51,
+  "TA_screening": {
+   "both_exclude": 13567,
+   "both_include": 12,
+   "single_include_disagreements": 72
+  },
+  "abstract_only_stratum_chasing_SEPARATE": {
+   "abstract_only_include": 16,
+   "awaiting_classification": 3,
+   "file": "fulltext/chasing_abstract_only.csv",
+   "pooling_with_full_text": "PROHIBITED",
+   "primary_GRADE_contribution": "none",
+   "records": 19,
+   "rob": "not assessable / no information"
+  },
+  "abstracts_fetched": 1266,
+  "backward_refs_examined": 16615,
+  "duplicate_check": "All 26 checked by DOI/PMID/title against the existing 363 \u2014 no duplicates. C11369 (journal) included; its preprint cohort-mate C11368 was not retrieved and sits in the chasing abstract-only stratum \u2014 never double-counted. C10044 also appears in candidates as C0002 (title-filtered duplicate chase record, different origin) \u2014 only one record included.",
+  "flag_author_sent_to_retrieval": 3,
+  "forward_cites_examined": 13867,
+  "included_from_chasing": 26,
+  "retrieval": {
+   "id_scheme": "C-prefixed chase_ids (Cxxxx) \u2014 cannot collide with Rxxxxx main-pool IDs; texts in fulltexts_text/Cxxxx.txt",
+   "log": "fulltext/chasing_retrieval_log.csv",
+   "not_retrieved_no_oa": 14,
+   "not_retrieved_paywalled_or_closed": 5,
+   "retrieved": 35,
+   "sought": 54
+  },
+  "sources": 555,
+  "sources_composition": {
+   "competing_reviews": 179,
+   "flag13_retained": 13,
+   "included_studies": 363
+  },
+  "title_plausible": 1667,
+  "unique_new_candidates": 13651
+ },
+ "extraction": {
+  "form": "extraction/extraction_form_v1.1.md",
+  "full_dual_extraction": "see extraction/full_discrepancy_report.json (populated on completion of this phase)",
+  "pilot_settlement": {
+   "differing_cells": 195,
+   "file": "extraction/extraction_pilot_settled.csv",
+   "log": "extraction/pilot_settlement_log.md",
+   "studies": 12,
+   "substantive": 31,
+   "wording_only": 164
+  }
+ },
+ "final_included": {
+  "by_question_pre_step": {
+   "Q1": 356,
+   "Q2": 303,
+   "Q3": 92
+  },
+  "by_question_provisional_multi_membership": {
+   "Q1": 339,
+   "Q2": 280,
+   "Q3": 82
+  },
+  "file": "fulltext/final_included.csv (Phase 5 state, 389 rows) \u2014 retained set derived by removing the 26 records listed under phase6_eligibility_consistency_step",
+  "from_chasing": 25,
+  "from_main_pool": 338,
+  "pre_step_total": 389,
+  "total": 363,
+  "unique_publications": 362,
+  "unique_publications_note": "One paper (Ohla 2022) is represented by two records (R01101 journal version, R02974 medRxiv version); both retained, neither contributes data to any synthesis. The 26 excluded records share no DOI or title with any retained record (verified)."
+ },
+ "full_text_main_pool": {
+  "assessed": 408,
+  "excluded": 45,
+  "included_pre_chasing": 363,
+  "retrieved": 408,
+  "sought": 634
+ },
+ "identification_main_pool": {
+  "duplicates_removed": 2487,
+  "flag_author": 13,
+  "proceed_to_full_text": 634,
+  "retrieved_total": 5988,
+  "screened_TA": 3501
+ },
+ "phase": "Phase 6 \u2014 eligibility-consistency exclusion of the 26-record no-primary-data class + peer-review feedback loop (2026-11-21)",
+ "phase6_eligibility_consistency_step": {
+  "appendix_E_reason": "no original primary data \u2014 narrative review / secondary source; used for citation chasing and Background differentiation only",
+  "appendix_E_total_after_step": 87,
+  "basis": "Locked eligibility admits primary studies only; the same standard was applied at Phase 2 full-text screening (commentaries/editorials/letters with no original data excluded) and in the flag-13 resolution. Decision taken in the Phase 6 peer-review feedback loop on eligibility-consistency grounds and disclosed as Difference 6 in the manuscript.",
+  "class_definition": "Settled design (extraction_settled_full.csv) is a narrative/bibliographic review, a letter/correspondence with no original data, or a hypothesis paper, with no primary data. Matches the manuscript's Phase 5 count of 26 exactly.",
+  "composition": {
+   "correspondence_no_original_data": 1,
+   "hypothesis_paper": 1,
+   "letters_no_original_data": 4,
+   "narrative_or_bibliographic_reviews": 20
+  },
+  "date": "2026-11-21",
+  "excluded_records": [
+   "R00592",
+   "R00774",
+   "R00849",
+   "R00939",
+   "R01126",
+   "R01168",
+   "R01290",
+   "R01321",
+   "R01371",
+   "R01482",
+   "R01655",
+   "R01848",
+   "R01870",
+   "R02248",
+   "R02295",
+   "R02346",
+   "R02354",
+   "R02419",
+   "R02488",
+   "C8424",
+   "R01498",
+   "R01503",
+   "R02280",
+   "R02332",
+   "R01599",
+   "R01721"
+  ],
+  "not_in_class": {
+   "R02393": "case report n=1 \u2014 has primary data; belongs to the separately declared below-threshold case class",
+   "R02464": "correspondence reporting preliminary primary results of an ongoing multicentre study \u2014 primary data exists (composite only); retained"
+  },
+  "pool_verification": "None of the 26 appears in analysis/synthesis/q1_frequency_pool.csv (137), q1_frequency_composite.csv (27), q1_recovery_pool.csv, q1_recovery_composite.csv, or q3_treatment_table.csv (23). All pooled estimates, GRADE ratings and verdicts unchanged.",
+  "pooled_numbers_changed": false,
+  "q2_restated": {
+   "assignments_after": 383,
+   "assignments_before": 409,
+   "coded_studies_after": 214,
+   "coded_studies_before": 223,
+   "direct_human_after": 15,
+   "speculative_share_after": "73.4%",
+   "speculative_studies_after": 157
+  },
+  "rob_bands_retained": {
+   "high_serious_critical": 61,
+   "low": 62,
+   "moderate": 214,
+   "not_assessable": 26,
+   "note": "All 26 excluded records were banded not assessable; retained bands otherwise unchanged."
+  }
+ },
+ "supersedes_note": "Extends fulltext/prisma_counts_phase3.json. Main-pool Phase 1/2 numbers and the citation-chasing arm are unchanged; this file restates the final included total after the Phase 6 eligibility-consistency step."
+}

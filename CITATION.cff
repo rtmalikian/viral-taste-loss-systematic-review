@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: generic
+title: "Loss of taste in possible viral infection: etiologies, pathogenesis, and the evidence for treatments"
+subtitle: "A Cochrane-level systematic review and meta-analysis where poolable"
+authors:
+  - family-names: Malikian
+    given-names: Raphael
+    orcid: https://orcid.org/0009-0008-4326-4205
+    email: rtmalikian@gmail.com
+    affiliation: "Independent Researcher, Palmdale, CA, USA"
+version: "1.0"
+date-released: 2026-11-21
+url: "https://github.com/rtmalikian/viral-taste-loss-systematic-review"
+repository-code: "https://github.com/rtmalikian/viral-taste-loss-systematic-review"
+license: "Malikian Attribution — Non-Commercial Licence v1.0"
+keywords:
+  - ageusia
+  - dysgeusia
+  - taste dysfunction
+  - SARS-CoV-2
+  - viral infection
+  - systematic review
+  - meta-analysis
+  - GRADE
+abstract: "Loss or distortion of taste is a recognised accompaniment of viral infections and was reported very widely during the COVID-19 pandemic. This Cochrane-level systematic review asked, for new-onset taste dysfunction attributed to a confirmed, probable or possible viral infection: which viruses are associated, with what frequency, timing and recovery (Q1); which pathogenesis mechanisms have been proposed, and how direct the evidence for each is (Q2); and what interventions have been studied, with what effects, doses, harms and special-population considerations (Q3). PubMed, Europe PMC and ClinicalTrials.gov were searched in full on 20 November 2026; 5,988 records were retrieved, 3,501 screened, and 363 studies included (362 unique publications). Acute taste dysfunction in SARS-CoV-2 pooled at 37.7% (95% CI 32.9 to 42.7; 137 studies, 155,010 participants; I squared 99.5%; 95% prediction interval 5.3 to 86.7%). Complete recovery pooled at 87.4% within 4 weeks, 85.2% at more than 4 to 12 weeks and 87.8% beyond 12 weeks, each from a different study set. Only 23 studies tested any intervention; no treatment has the comparative evidence to support a recommendation. GRADE certainty was very low for most outcomes. All pooled evidence concerns SARS-CoV-2."

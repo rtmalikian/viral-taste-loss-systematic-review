@@ -1,0 +1,138 @@
+record_id,events,total,virus,population,ascertainment,design,rob
+C10140,11,37,SARS-CoV-2,hospitalised,self-report,cross-sectional,Moderate
+C2971,19,349,SARS-CoV-2,hospitalised,self-report,cross-sectional,Low
+C5334,15,92,SARS-CoV-2,hospitalised,self-report,prospective cohort,Moderate
+C8383,401,541,SARS-CoV-2,healthcare workers,self-report,cross-sectional (online survey),Moderate
+C8500,0,81,SARS-CoV-2,non-hospitalised-community,self-report,cross-sectional,Moderate
+C8521,2,23,SARS-CoV-2,non-hospitalised-community,self-report,cross-sectional,Moderate
+C8932,718,1043,SARS-CoV-2,mixed,self-report,prospective cohort,Moderate
+R00006,507,5348,SARS-CoV-2,non-hospitalised-community,self-report,cross-sectional,Moderate
+R00058,38,104,SARS-CoV-2,mixed,self-report,cross-sectional,Low
+R00132,321,5014,SARS-CoV-2,hospitalised,self-report,retrospective cohort,Moderate
+R00170,111,347,SARS-CoV-2,hospitalised,self-report,retrospective cohort,High
+R00193,112,1331,SARS-CoV-2,hospitalised,self-report,retrospective cohort,Low
+R00282,197,413,SARS-CoV-2,non-hospitalised-community,self-report,cross-sectional,Moderate
+R00316,75,414,SARS-CoV-2,hospitalised,self-report,prospective cohort,Moderate
+R00322,19893,35566,SARS-CoV-2,mixed,self-report,cross-sectional,Moderate
+R00405,132,300,SARS-CoV-2,non-hospitalised-community,self-report,cross-sectional,Moderate
+R00415,23,40,SARS-CoV-2,hospitalised,self-report,retrospective cohort,Low
+R00546,89,1266,SARS-CoV-2,hospitalised,self-report,prospective cohort,Moderate
+R00572,85,294,SARS-CoV-2,non-hospitalised-community,self-report,prospective cohort,Moderate
+R00579,195,405,SARS-CoV-2,mixed,self-report,cross-sectional,Low
+R00618,1282,2497,SARS-CoV-2,non-hospitalised-community,self-report,cross-sectional,Moderate
+R00648,53,1250,SARS-CoV-2,other,self-report,retrospective cohort,Moderate
+R00657,287,686,SARS-CoV-2,non-hospitalised-community,self-report,cross-sectional,Low
+R00659,18,41,SARS-CoV-2,hospitalised,self-report,cross-sectional,Moderate
+R00712,66,140,SARS-CoV-2,hospitalised,self-report,retrospective cohort,Moderate
+R00753,184,194,SARS-CoV-2,mixed,self-report,cross-sectional,Moderate
+R00779,55,187,SARS-CoV-2,hospitalised,psychophysical test,prospective cohort,Low
+R00786,38,100,SARS-CoV-2,hospitalised,psychophysical test,cross-sectional,Low
+R00830,19,44,SARS-CoV-2,healthcare workers,self-report,prospective cohort,Low
+R00840,10,102,SARS-CoV-2,hospitalised,self-report,cross-sectional,Moderate
+R00846,1172,60194,SARS-CoV-2,mixed,self-report,registry record,Low
+R00855,25,58,SARS-CoV-2,non-hospitalised-community,psychophysical test,prospective cohort,Moderate
+R00872,49,237,SARS-CoV-2,hospitalised,self-report,cross-sectional,Moderate
+R00884,41,280,SARS-CoV-2,mixed,self-report,cross-sectional,Moderate
+R00903,76,102,SARS-CoV-2,mixed,self-report,prospective cohort,Low
+R00934,175,402,SARS-CoV-2,hospitalised,self-report,cross-sectional,Moderate (some concerns)
+R01006,155,300,SARS-CoV-2,mixed,self-report,prospective cohort,Moderate (some concerns)
+R01017,214,353,SARS-CoV-2,mixed,self-report,retrospective cohort,Moderate (some concerns)
+R01037,41,50,SARS-CoV-2,other,self-report,cross-sectional,Moderate (some concerns)
+R01045,194,322,SARS-CoV-2,mixed,psychophysical test,cross-sectional,Low
+R01058,126,241,SARS-CoV-2,hospitalised,psychophysical test,cross-sectional,Moderate (some concerns)
+R01068,92,227,SARS-CoV-2,hospitalised,self-report,retrospective cohort,Moderate (some concerns)
+R01073,60,80,SARS-CoV-2,other,self-report,cross-sectional,Moderate (some concerns)
+R01081,205,305,SARS-CoV-2,non-hospitalised-community,self-report,cross-sectional,Moderate (some concerns)
+R01085,64,316,SARS-CoV-2,non-hospitalised-community,self-report,cross-sectional,Low
+R01145,91,338,SARS-CoV-2,non-hospitalised-community,self-report,prospective cohort,Moderate (some concerns)
+R01185,14,51,SARS-CoV-2,non-hospitalised-community,psychophysical test,cross-sectional,Moderate (some concerns)
+R01202,169,498,SARS-CoV-2,mixed,self-report,cross-sectional,Low
+R01224,184,488,SARS-CoV-2,non-hospitalised-community,self-report,prospective cohort,Moderate
+R01236,80,300,SARS-CoV-2,hospitalised,psychophysical test,prospective cohort,Moderate
+R01255,201,288,SARS-CoV-2,mixed,self-report,cross-sectional,Low
+R01298,21,25,SARS-CoV-2,healthcare workers,self-report,prospective cohort,Moderate
+R01300,19,58,SARS-CoV-2,mixed,psychophysical test,prospective cohort,Moderate
+R01361,5,25,SARS-CoV-2,hospitalised,self-report,mechanistic human,High
+R01369,77,224,SARS-CoV-2,hospitalised,psychophysical test,cross-sectional,Moderate
+R01408,85,272,SARS-CoV-2,non-hospitalised-community,self-report,cross-sectional,Low
+R01432,41,133,SARS-CoV-2,hospitalised,self-report,prospective cohort,Moderate
+R01476,47,80,SARS-CoV-2,hospitalised,self-report,prospective cohort,Moderate (some concerns)
+R01478,172,639,SARS-CoV-2,hospitalised,self-report,prospective cohort,Moderate (some concerns)
+R01501,80,277,SARS-CoV-2,hospitalised,self-report,cross-sectional,Moderate (some concerns)
+R01506,18,171,SARS-CoV-2,mixed,self-report,cross-sectional,Moderate (some concerns)
+R01518,25,46,SARS-CoV-2,non-hospitalised-community,self-report,cross-sectional,High
+R01522,36,435,SARS-CoV-2,hospitalised,self-report,retrospective cohort,Moderate (some concerns)
+R01550,98,167,SARS-CoV-2,hospitalised,self-report,cross-sectional,Moderate (some concerns)
+R01551,18,144,SARS-CoV-2,non-hospitalised-community,self-report,cross-sectional,Low
+R01560,86,270,SARS-CoV-2,hospitalised,self-report,cross-sectional,Moderate (some concerns)
+R01562,215,500,SARS-CoV-2,mixed,self-report,cross-sectional,Moderate
+R01585,27,43,SARS-CoV-2,non-hospitalised-community,self-report,cross-sectional,Moderate (some concerns)
+R01611,79,103,SARS-CoV-2,healthcare workers,self-report,cross-sectional,Moderate
+R01612,269,574,SARS-CoV-2,hospitalised,self-report,prospective cohort,Moderate (some concerns)
+R01619,48,200,SARS-CoV-2,hospitalised,self-report,prospective cohort,High
+R01628,54,188,SARS-CoV-2,mixed,self-report,prospective cohort,Moderate (some concerns)
+R01669,168,268,SARS-CoV-2,non-hospitalised-community,self-report,prospective cohort,Low
+R01677,39,98,SARS-CoV-2,hospitalised,self-report,cross-sectional,Moderate
+R01701,184,300,SARS-CoV-2,non-hospitalised-community,psychophysical test,prospective cohort,Low
+R01710,22,200,SARS-CoV-2,hospitalised,self-report,"prospective cohort (assessed on days 10, 14 and 21)",Moderate
+R01739,242,486,SARS-CoV-2,mixed,self-report,retrospective cohort (telephone questionnaire and chart review; Kaplan-Meier recovery analysis),Moderate
+R01742,54,150,SARS-CoV-2,mixed,self-report,cross-sectional,Moderate
+R01745,91,151,SARS-CoV-2,mixed,self-report,prospective cohort,Moderate
+R01758,118,195,SARS-CoV-2,healthcare workers,self-report,prospective cohort,Low
+R01777,4,58,SARS-CoV-2,non-hospitalised-community,self-report,cross-sectional,Moderate
+R01822,404,5399,SARS-CoV-2,hospitalised,self-report,registry record,Moderate
+R01851,51,1983,SARS-CoV-2,non-hospitalised-community,self-report,cross-sectional,Moderate
+R01856,153,387,SARS-CoV-2,mixed,self-report,cross-sectional,Moderate
+R01861,10,21,SARS-CoV-2,mixed,self-report,cross-sectional,Moderate
+R01878,39,119,SARS-CoV-2,hospitalised,self-report,prospective cohort,Moderate
+R01891,69,300,SARS-CoV-2,hospitalised,self-report,prospective cohort,High
+R01899,718,1043,SARS-CoV-2,non-hospitalised-community,self-report,cross-sectional,Low
+R01900,177,274,SARS-CoV-2,non-hospitalised-community,self-report,cross-sectional,Moderate
+R01916,34,141,SARS-CoV-2,hospitalised,self-report,prospective cohort,Moderate
+R01923,19,51,SARS-CoV-2,hospitalised,self-report,cross-sectional,Low
+R01926,1205,2579,SARS-CoV-2,mixed,self-report,cross-sectional,Low
+R01938,33,94,SARS-CoV-2,hospitalised,psychophysical test,prospective cohort,Moderate
+R01943,20,152,SARS-CoV-2,hospitalised,self-report,prospective cohort,Moderate
+R01962,525,1022,SARS-CoV-2,hospitalised,self-report,cross-sectional,Low
+R01965,76,718,SARS-CoV-2,hospitalised,self-report,prospective cohort,Moderate
+R01978,54,78,SARS-CoV-2,healthcare workers,self-report,prospective cohort,Moderate
+R01986,47,100,SARS-CoV-2,hospitalised,psychophysical test,cross-sectional,Low
+R02030,25,59,SARS-CoV-2,hospitalised,self-report,cross-sectional,Moderate
+R02057,92,410,SARS-CoV-2,hospitalised,self-report,prospective cohort,Moderate
+R02064,49,1065,SARS-CoV-2,hospitalised,self-report,cross-sectional,Moderate
+R02070,29,73,SARS-CoV-2,hospitalised,self-report,cross-sectional,Moderate
+R02077,62,217,SARS-CoV-2,hospitalised,self-report,prospective cohort,Moderate
+R02103,64,76,SARS-CoV-2,non-hospitalised-community,psychophysical test,cross-sectional,Low
+R02128,103,327,SARS-CoV-2,mixed,self-report,cross-sectional,Moderate
+R02137,25,230,SARS-CoV-2,mixed,self-report,cross-sectional,Moderate
+R02154,66,111,SARS-CoV-2,mixed,self-report,retrospective cohort,High
+R02166,23,196,SARS-CoV-2,hospitalised,self-report,retrospective cohort,Moderate
+R02199,5,57,SARS-CoV-2,non-hospitalised-community,self-report,case series >=10,Low
+R02205,128,197,SARS-CoV-2,non-hospitalised-community,self-report,cross-sectional,Moderate
+R02208,526,1197,SARS-CoV-2,mixed,self-report,cross-sectional,Moderate
+R02210,28,141,SARS-CoV-2,non-hospitalised-community,self-report,retrospective cohort,Moderate
+R02229,17,60,SARS-CoV-2,hospitalised,self-report,retrospective cohort,High
+R02238,91,138,SARS-CoV-2,mixed,psychophysical test,prospective cohort,Low
+R02249,76,106,SARS-CoV-2,healthcare workers,psychophysical test,prospective cohort,Low
+R02264,161,230,SARS-CoV-2,healthcare workers,self-report,prospective cohort,Moderate
+R02302,81,172,SARS-CoV-2,mixed,self-report,prospective cohort,High
+R02313,33,86,SARS-CoV-2,hospitalised,self-report,retrospective cohort,High
+R02322,135,151,SARS-CoV-2,non-hospitalised-community,self-report,prospective cohort,Moderate
+R02349,24,42,SARS-CoV-2,mixed,self-report,cross-sectional,Moderate
+R02358,14,42,SARS-CoV-2,hospitalised,self-report,retrospective cohort,Moderate
+R02365,67,128,SARS-CoV-2,non-hospitalised-community,self-report,cross-sectional,Moderate
+R02366,100,394,SARS-CoV-2,mixed,self-report,case series >=10,Moderate
+R02380,92,198,SARS-CoV-2,non-hospitalised-community,self-report,cross-sectional,Low
+R02385,46,64,SARS-CoV-2,mixed,self-report,cross-sectional,Low
+R02389,32,56,SARS-CoV-2,non-hospitalised-community,self-report,cross-sectional,Low
+R02390,89,141,SARS-CoV-2,mixed,self-report,retrospective cohort,High
+R02391,41,100,SARS-CoV-2,hospitalised,self-report,retrospective cohort,Moderate
+R02394,923,1942,SARS-CoV-2,non-hospitalised-community,self-report,cross-sectional,Moderate
+R02430,67,103,SARS-CoV-2,mixed,self-report,cross-sectional,Low
+R02433,52,72,SARS-CoV-2,non-hospitalised-community,self-report,case series >=10,Moderate
+R02438,62,95,SARS-CoV-2,non-hospitalised-community,self-report,cross-sectional,Moderate
+R02506,342,385,SARS-CoV-2,mixed,self-report,cross-sectional,Low
+R02773,209,772,SARS-CoV-2,mixed,self-report,prospective cohort,Moderate
+R02774,72,305,SARS-CoV-2,hospitalised,self-report,prospective cohort,Moderate
+R02798,42,187,SARS-CoV-2,hospitalised,self-report,cross-sectional,Moderate
+R02945,54,65,SARS-CoV-2,hospitalised,self-report,cross-sectional,High

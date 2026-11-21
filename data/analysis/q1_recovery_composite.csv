@@ -1,0 +1,36 @@
+record_id,outcome,window,assessment_timepoint,events_recovered,n_with_dysfunction_followed,virus,ascertainment,design,rob_band,notes
+R00020,complete,>12 weeks,4 years,152,356,SARS-CoV-2,self-report,prospective cohort,Moderate,Composite chemosensory dysfunction (CD). Taste-specific recovery printed only split by sex (no counts).
+R00185,complete,>4-12 weeks,1 month,20,20,SARS-CoV-2,self-report,prospective cohort,Moderate,Composite: olfactory and gustatory functions fully regained in all 20 re-examined (of 24 enrolled).
+R00323,complete,>4-12 weeks,"interview, median 81 days from onset (IQR 60-104)",249,714,SARS-CoV-2,self-report,cross-sectional,Serious,"Composite total recovery of taste and smell; cohort selected for chemosensory dysfunction (93% taste loss, 99.2% smell loss)."
+R00488,complete,>12 weeks,6-12 months,211,267,SARS-CoV-2,self-report,prospective cohort,Moderate,Composite SNOT-22 smell-or-taste. Pooled Trieste+Treviso cohorts; overlaps other Boscolo-Rizzo series (see log).
+R00488,complete,>12 weeks,2 years,238,267,SARS-CoV-2,self-report,prospective cohort,Moderate,211 + 27 recovered between 6-12mo and 2y (printed). 89.1%.
+R00488,complete,>12 weeks,3 years,246,267,SARS-CoV-2,self-report,prospective cohort,Moderate,246/267 (92.1%) complete resolution.
+R00488,any,>12 weeks,3 years,263,267,SARS-CoV-2,self-report,prospective cohort,Moderate,Complete 246 + decrease in severity 17 = 263/267.
+R00572,complete,>12 weeks,6 months,97,101,SARS-CoV-2 (Omicron BA.1 predominant period),self-report,prospective cohort,Moderate,"Composite SNOT-22 smell-or-taste (Omicron BA.1 cohort). Same cohort as R02714 (preprint, excluded as duplicate)."
+R00572,any,>12 weeks,6 months,99,101,SARS-CoV-2 (Omicron BA.1 predominant period),self-report,prospective cohort,Moderate,Complete 97 + decrease in severity 2 = 99/101.
+R00673,complete,>12 weeks,2 years,44,62,SARS-CoV-2,self-report,case-control,Low,Composite self-reported smell-or-taste (SNOT-22) among 62 with acute-phase dysfunction. Psychophysical GD prevalence reported separately but no psychophysical recovery proportion.
+R01202,any,>12 weeks,"questionnaire, mean 113 +/- 31 days from diagnosis",186,206,SARS-CoV-2,self-report,cross-sectional,Low,Composite smell and/or taste disorders; 90.2% (n=186) implies denominator 206. Timing is a mean over a variable survey interval.
+R01369,any,<=4 weeks,during hospital stay (mean ~12.3 days from onset),55,102,SARS-CoV-2,self-report,cross-sectional,Moderate,Composite self-reported recovery from loss of taste and smell; objective testing still showed residual dysfunction in 39/55 self-reported recoverers.
+R01391,complete,>12 weeks,6 months,680,1031,SARS-CoV-2,self-report,prospective cohort,Serious,Composite olfactory/gustatory; denominator = all 1031 enrolled with OD and/or GD (taste subset 780 not separable for recovery).
+R01391,any,>12 weeks,6 months,908,1031,SARS-CoV-2,self-report,prospective cohort,Serious,Complete 680 + partial 228 = 908/1031.
+R01705,complete,>4-12 weeks,6 weeks,15,21,SARS-CoV-2,self-report,prospective cohort,Moderate,Composite SNOT-22 smell/taste.
+R01705,any,>4-12 weeks,6 weeks,21,21,SARS-CoV-2,self-report,prospective cohort,Moderate,Improved in all 21 followed (complete 15 + partial 6).
+R01705,complete,>12 weeks,6 months,21,21,SARS-CoV-2,self-report,prospective cohort,Moderate,Remaining partial recoverers all completely recovered by 6 months (Table 4).
+R01916,complete,<=4 weeks,by end of follow-up (OTD durations 2-15 days),40,40,SARS-CoV-2,self-report,prospective cohort,Moderate,Composite: all 40 with olfactory or taste dysfunction reported complete recovery of smell and taste sensations.
+R01970,complete,<=4 weeks,resolved <1 week (assessed 4 weeks after end of treatment),24,32,SARS-CoV-2,self-report,cross-sectional,Moderate,Composite smell/taste dysfunction (STD) in COVID+ group: 75% of 32 resolved in <1 week.
+R02077,any,<=4 weeks,within 3 weeks of onset,41,59,SARS-CoV-2,self-report,prospective cohort,Moderate,"Composite dysosmia and/or dysgeusia, closely monitored subset."
+R02140,complete,<=4 weeks,2 weeks,27,42,SARS-CoV-2,self-report,prospective cohort,Moderate,Subgroup with concomitant anosmia + hypogeusia: 27/42 completely recovered from anosmia AND gustatory symptoms (both senses required).
+R02166,complete,>12 weeks,3 months after discharge,35,39,SARS-CoV-2,self-report,retrospective cohort,Moderate,Composite OD and/or GD restored to normal 35/39 (89.7%).
+R02210,complete,<=4 weeks,resolution 3-12 days,35,35,SARS-CoV-2,self-report,retrospective cohort,Moderate,Composite: all 35 with anosmia and/or ageusia returned to normal smell and taste sensations.
+R02375,complete,<=4 weeks,day 15,52,81,SARS-CoV-2,self-report,prospective cohort,Moderate,Composite DyNaCHRON olfactory/gustatory disorders.
+R02375,any,<=4 weeks,day 15,79,81,SARS-CoV-2,self-report,prospective cohort,Moderate,Complete 52 + partial 27 (33%) = 79/81; 2 (3%) no recovery.
+R02385,any,not assignable,at survey (time since infection not reported),21,46,SARS-CoV-2,self-report,cross-sectional,Low,Composite smell/taste impairment resolved 21/46 in COVID+ subjects.
+R02391,complete,>4-12 weeks,~1 month after discharge,27,42,SARS-CoV-2,self-report,retrospective cohort,Moderate,Composite OD/GD: 64% of 42 complete recovery (events derived from printed %).
+R02391,any,>4-12 weeks,~1 month after discharge,35,42,SARS-CoV-2,self-report,retrospective cohort,Moderate,Complete + near-complete = 83% of 42 (events derived).
+R02433,complete,not assignable,at assessment (timing not standardised),22,60,SARS-CoV-2,self-report,case series >=10,Moderate,Composite sensory symptoms completely disappeared 22/60 with sensory symptoms (of 72 analysed).
+R02433,any,not assignable,at assessment (timing not standardised),42,60,SARS-CoV-2,self-report,case series >=10,Moderate,Complete 22 + partial 20 = 42/60.
+R02704,any,not assignable,"at enrolment, 1-24 months after onset",64,426,SARS-CoV-2,self-report,prospective cohort,Moderate,"Composite: regained >=80% of smell and/or taste (""Recovered"" group) 64/426; eligibility required dysfunction >=1 week."
+R02911,complete,>4-12 weeks,1 month,31,56,SARS-CoV-2,self-report,prospective cohort,Moderate,Composite smell and taste dysfunction completely recovered 31/56 (55%).
+C11061,complete,>12 weeks,12 months,130,187,SARS-CoV-2,self-report,prospective cohort,Moderate,Composite smell-or-taste (SNOT-22). Trieste cohort — overlaps R00488 pooled cohorts (see log).
+C11061,any,>12 weeks,12 months,171,187,SARS-CoV-2,self-report,prospective cohort,Moderate,Complete 130 + decrease in severity 41 = 171/187.
+R01750,complete,not assignable,at summarisation of social-media posts (Mar-Jul 2020),34,355,SARS-CoV-2 (suspected COVID-19),self-report,cross-sectional,not assessable — non-primary or out-of-tool-scope record,"Composite ""the senses"" recovered 34/355 posters with smell/taste dysfunction."

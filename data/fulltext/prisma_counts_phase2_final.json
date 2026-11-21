@@ -1,0 +1,139 @@
+{
+ "phase": "Phase 2 FINAL \u2014 full-text + FLAG-AUTHOR 13 resolution + abstract-only stratum (2026-11-20)",
+ "supersedes_note": "Extends fulltext/prisma_counts_phase2.json (Phase 2 counts for the 634 TA-proceed records, created in a parallel run) with the author-directed flag13 resolution and the abstract-only stratum. The 634-pool numbers below are unchanged from that file / prisma_counts_phase2_partial.json.",
+ "identification": {
+  "retrieved_total": 5988,
+  "pubmed": 2720,
+  "europepmc": 2816,
+  "ctgov": 452,
+  "duplicates_removed": 2487,
+  "screened_TA": 3501
+ },
+ "title_abstract_screening": {
+  "both_include": 413,
+  "both_exclude": 2704,
+  "disagreements_adjudicated": 384,
+  "observed_agreement": 0.8903,
+  "kappa": 0.6184,
+  "adjudication_outcomes": {
+   "INCLUDE": 128,
+   "INCLUDE-TASTE-AMBIGUOUS": 93,
+   "EXCLUDE": 150,
+   "FLAG-AUTHOR": 13
+  },
+  "proceed_to_full_text_main_pool": 634,
+  "excluded_TA": 2854,
+  "flag_author_held": 13
+ },
+ "full_text_main_pool": {
+  "sought_full_text": 634,
+  "retrieved": 408,
+  "not_retrieved": 226,
+  "not_retrieved_no_oa": 181,
+  "not_retrieved_paywalled_closed": 45,
+  "assessed_full_text": 408,
+  "excluded_full_text": 45,
+  "included_full_text_pre_chasing": 363,
+  "included_by_question_provisional": {
+   "Q1": 330,
+   "Q2": 282,
+   "Q3": 71
+  },
+  "ft_screening": {
+   "retrieved_screened": 408,
+   "both_include": 336,
+   "both_exclude": 18,
+   "disagreements": 54,
+   "agreement": 0.8676,
+   "kappa": 0.3468
+  },
+  "coordinator_verification_corrections": 5
+ },
+ "flag_author_13_resolution_2026-11-20": {
+  "records": 13,
+  "retrieved_full_text": 7,
+  "retrieved_ids": [
+   "R00208",
+   "R00626",
+   "R00956",
+   "R01057",
+   "R01505",
+   "R01680",
+   "R02270"
+  ],
+  "not_retrieved_after_2_occasions": 6,
+  "not_retrieved_ids": [
+   "R00534",
+   "R00920",
+   "R00946",
+   "R02284",
+   "R02369",
+   "R02477"
+  ],
+  "included": 0,
+  "excluded_at_full_text": 7,
+  "awaiting_classification_abstract_only": 6,
+  "abstract_published_for_any_of_13": 0,
+  "all_13_retained_for_citation_chasing_background": true,
+  "files": [
+   "fulltext/flag13/flag13_retrieval_log.csv",
+   "fulltext/flag13/flag13_ft_decisions.csv"
+  ]
+ },
+ "full_text_totals_after_flag13": {
+  "total_ft_decision_rows": 647,
+  "included": 363,
+  "excluded": 52,
+  "not_retrieved": 226,
+  "awaiting_classification": 6,
+  "note": "Included count unchanged: all 7 retrieved flag13 records were excluded at full text with specific reasons; the 6 not-retrieved flag13 records sit in the abstract-only stratum as awaiting classification. File: fulltext/ft_final_decisions.csv (647 rows). final_included.csv unchanged at 363 studies."
+ },
+ "abstract_only_stratum_SEPARATE_never_merged_with_full_text": {
+  "records_processed": 232,
+  "composition": {
+   "main_pool_not_retrieved": 226,
+   "flag13_not_retrieved": 6
+  },
+  "abstract_only_include": 90,
+  "abstract_only_include_by_question": {
+   "Q1": 86,
+   "Q2": 11,
+   "Q3": 6
+  },
+  "abstract_only_exclude": 46,
+  "awaiting_classification": 96,
+  "rob_for_all": "not assessable / no information",
+  "primary_GRADE_contribution": "none",
+  "pooling_with_full_text": "PROHIBITED (Amendment 2026-11-20 20:20 PT)",
+  "file": "fulltext/abstract_only/abstract_only_decisions.csv",
+  "method": "Four adjudicators read all 226 main-pool abstracts in packets against protocol-locked.md (fulltext/abstract_only/adjudication/decisions_1..4.csv, merged and verified by code: every candidate ID exactly once). Fields extracted only as explicitly stated in each abstract; results as printed."
+ },
+ "chasing_status": {
+  "status": "IN PROGRESS at time of writing (background run, log fulltext/chasing_run2.log)",
+  "sources_chased_this_run": 555,
+  "sources_composition": {
+   "included_studies": 363,
+   "competing_reviews": 179,
+   "flag13_retained": 13
+  },
+  "previous_partial_run_for_reference": {
+   "sources": 542,
+   "unique_new_candidates_raw": 14829,
+   "backward_refs_total": 19662,
+   "forward_cites_total": 15264,
+   "note": "Previous run reached candidate collection (14,829 unique new candidates) but was interrupted during candidate abstract-fetch/screening; no candidates from it were counted as screened. The current 555-source run supersedes it; its outputs (fulltext/chasing_candidates.csv, fulltext/chasing_counts.json, fulltext/chasing_both_include.csv) will be counted in PRISMA when complete."
+  }
+ },
+ "extraction_status": {
+  "status": "PILOT COMPLETE \u2014 two independent passes done, field-by-field discrepancy comparison computed, settlement by re-reading NOT yet done",
+  "form": "extraction/extraction_form_v1.md (30 fields)",
+  "pilot_studies": 12,
+  "pass_A": "extraction/extraction_A_pilot.csv (12 rows)",
+  "pass_B": "extraction/extraction_B_pilot.csv (12 rows)",
+  "cells_compared": 360,
+  "cells_differing_textually": 195,
+  "overall_textual_discrepancy_rate": 0.542,
+  "file": "extraction/pilot_discrepancy_report.json",
+  "note": "Textual differences concentrate in free-text fields (design 12/12, population_description 12/12, funding_conflicts 12/12, extractor_notes 12/12, country_setting 11/12, taste_prevalence wording 12/12); structured Q3 fields differed in 1/12 rows and adverse_events in 0/12. Core numeric anchors converged between the independent passes. Form v1.1 revisions are listed in team-log.md; pilot discrepancies must be settled by re-reading before any pilot data are used, and full extraction proceeds only on the revised form."
+ }
+}

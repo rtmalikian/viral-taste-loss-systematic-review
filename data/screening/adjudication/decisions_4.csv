@@ -1,0 +1,97 @@
+record_id,decision,reason
+R02328,INCLUDE-TASTE-AMBIGUOUS,No abstract; title reports taste and olfactory loss in SARS-CoV-2 patients but separate taste reporting cannot be verified
+R02332,INCLUDE,Title reports gustatory dysfunction in COVID-19 as a distinct taste outcome with no exclusion apparent
+R02336,INCLUDE,Cross-sectional study of 909 SARS-CoV-2 patients reporting ageusia hypogeusia and dysgeusia separately from olfactory outcomes
+R02343,INCLUDE,Questionnaire study in 4039 COVID-19 participants reporting taste reduction separately from smell and chemesthesis
+R02344,INCLUDE-TASTE-AMBIGUOUS,No abstract; title reports smell and taste disorders in SARS-CoV-2 but separate taste reporting and design cannot be verified
+R02348,EXCLUDE,Narrative review of anosmia in COVID-19 with no original data; citation chasing only
+R02355,INCLUDE,Retrospective survey of 204 COVID-19 patients scoring taste reduction separately from smell reduction
+R02357,EXCLUDE,Review of COVID-19 and olfactory/gustatory dysfunction with no original cohort data; citation chasing only
+R02361,EXCLUDE,Letter/response titled In Response to with no abstract or original data cue; letters without original data are excluded
+R02365,INCLUDE,Case series of 140 COVID-19 patients reporting impaired taste separately from impaired smell
+R02369,FLAG-AUTHOR,No abstract retrieved and title on pathogenesis of COVID-19 dysgeusia does not show whether this is original mechanistic data or a narrative piece
+R02379,EXCLUDE,Review summarising current knowledge on smell and taste disorders in COVID-19 with no original data
+R02380,INCLUDE-TASTE-AMBIGUOUS,Study of 816 primary care patients but abstract reports smell or taste disorders as a combined outcome only
+R02385,INCLUDE,Comparative study in COVID-19 patients reporting hypogeusia and dysgeusia rates separately for taste impairment
+R02386,INCLUDE-TASTE-AMBIGUOUS,Cross-sectional COVID-19 study where taste loss is invoked but only olfactory dysfunction outcomes are reported in the abstract
+R02401,EXCLUDE,Single case report of gustatory dysfunction in COVID-19; case reports under 10 are excluded
+R02404,EXCLUDE,Systematic review of ageusia and anosmia in COVID-19 with no original data; citation chasing only
+R02414,INCLUDE-TASTE-AMBIGUOUS,Cohort of 63 COVID-19 patients with taste testing in 10 but taste results reported mainly combined with smell as smell and/or taste
+R02417,INCLUDE-TASTE-AMBIGUOUS,Cross-sectional household-contact study reporting loss of smell or taste as a combined outcome only
+R02429,INCLUDE-TASTE-AMBIGUOUS,National survey of 220 respondents reporting changes in smell/taste combined with no separate taste proportion in abstract
+R02430,INCLUDE,Prospective cross-sectional study of 103 COVID-19 patients assessing loss of taste severity as a distinct item alongside olfactory dysfunction
+R02431,EXCLUDE,Aggregate literature analysis of published coronavirus studies with no original patient cohort; review only
+R02432,EXCLUDE,Report of two cases of anosmia and hypogeusia in SARS-CoV-2; case series under 10 excluded
+R02437,INCLUDE,Cross-sectional study of 508 SARS-CoV-2 patients reporting gustatory dysfunction prevalence separately from olfactory dysfunction
+R02446,EXCLUDE,Single case report of anosmia and ageusia as primary COVID-19 symptoms; case reports under 10 excluded
+R02447,EXCLUDE,Mini review on COVID-19 and smell-taste disorders with no original data; citation chasing only
+R02455,INCLUDE-TASTE-AMBIGUOUS,Prospective study of 3191 COVID-19 patients reporting acute anosmia or ageusia as a combined outcome only
+R02457,EXCLUDE,Report of two cases with loss of smell or taste in SARS-CoV-2 infection; case series under 10 excluded
+R02461,INCLUDE-TASTE-AMBIGUOUS,No abstract; title reports olfactory and gustatory dysfunction in SARS-CoV-2 versus other viruses but separate taste reporting cannot be verified
+R02462,EXCLUDE,Commentary summarising anosmia and hypogeusia data with no original study data
+R02463,EXCLUDE,Literature review of olfactory dysfunction in COVID-19 with no original data; citation chasing only
+R02464,INCLUDE-TASTE-AMBIGUOUS,No abstract; title reports olfactory and gustatory disorders in COVID-19 but separate taste reporting and design cannot be verified
+R02471,EXCLUDE,Narrative summary on anosmia with or without dysgeusia in COVID-19 with no original cohort data
+R02476,INCLUDE-TASTE-AMBIGUOUS,Reporting-tool pilot of 237 COVID-19 entries collecting dysgeusia but abstract results focus on anosmia with no separate taste outcome
+R02477,FLAG-AUTHOR,No abstract retrieved and title asking if gustatory impairment is the first oral manifestation report does not show design or participant number
+R02481,INCLUDE-TASTE-AMBIGUOUS,Retrospective COVID-19 cohort obtaining olfactory and gustatory data but abstract reports admission association for anosmia with taste not reported separately
+R02483,INCLUDE-TASTE-AMBIGUOUS,No abstract; title reports self-reported olfactory and gustatory dysfunction as a COVID-19 screening criterion but separate taste reporting cannot be verified
+R02486,INCLUDE-TASTE-AMBIGUOUS,Study of mildly symptomatic SARS-CoV-2 outpatients reporting altered smell or taste as a combined outcome in the abstract
+R02488,INCLUDE-TASTE-AMBIGUOUS,No abstract; title lists dysgeusia with anosmia and hyposmia as SARS-CoV-2 indicators but separate taste reporting cannot be verified
+R02491,EXCLUDE,Title describes olfactory and taste disorder in a single patient with SARS-CoV-2 pneumonia; case report under 10 excluded
+R02492,INCLUDE,Retrospective study of 114 COVID-19 patients reporting dysgeusia in 46 of 54 anosmic patients as an extractable taste proportion
+R02493,INCLUDE-TASTE-AMBIGUOUS,No abstract; title reports utility of hypogeusia for COVID-19 diagnosis but separate taste reporting and design cannot be verified
+R02497,INCLUDE-TASTE-AMBIGUOUS,COVID-19 cohort where taste loss is invoked but only quantitative smell testing with UPSIT was performed and reported
+R02500,EXCLUDE,Hypothesis piece on dysosmia and dysgeusia in COVID-19 with no abstract or original data; hypotheses/editorials excluded
+R02501,EXCLUDE,Single case story of possible SARS-CoV-2 infection with anosmia and ageusia; case reports under 10 excluded
+R02503,INCLUDE,Cross-sectional study of COVID-19 tested patients reporting taste loss in 71 percent of positives separately from smell loss
+R02510,INCLUDE-TASTE-AMBIGUOUS,No abstract; title reports loss of taste and smell as a COVID-19 symptom but separate taste reporting and design cannot be verified
+R02517,EXCLUDE,Critical review of treatments for smell and taste disorders in general with no original viral data; citation chasing only
+R02535,INCLUDE,Study of 95 patients after upper respiratory infection performing taste function tests and reporting ageusia and hypogeusia counts separately
+R02550,EXCLUDE,Chemosensory dysfunction attributed to influenza vaccination rather than viral infection with no taste complaint in the identified patients
+R02560,INCLUDE-TASTE-AMBIGUOUS,Clinic cohort of 140 olfactory patients including upper respiratory infection causes with gustatory disorders assessed but viral-specific taste data not separate in abstract
+R02561,INCLUDE-TASTE-AMBIGUOUS,Clinic series of 5183 patients including a post-influenza hyposmia and hypogeusia group but taste and smell are combined in that diagnostic label
+R02592,EXCLUDE,Single case of taste change after a dental surgical procedure; taste dysfunction explained by trauma/surgery and not viral infection
+R02593,EXCLUDE,Study of smell disorders only with olfactory testing and no taste dysfunction outcome reported
+R02594,EXCLUDE,Mouse taste-bud inflammation study using bacterial and viral mimics; not explicitly about viral taste pathogenesis for the Q2 stratum
+R02618,EXCLUDE,Ageusia and hyposmia induced by interferon treatment in hepatitis C; taste dysfunction attributed to a named drug cause not the virus
+R02623,EXCLUDE,Narrative management review of smell and taste problems with no original data; citation chasing only
+R02624,EXCLUDE,Anosmia and ageusia induced by interferon in chronic hepatitis C; taste dysfunction attributed to a named drug cause not the virus
+R02626,INCLUDE-TASTE-AMBIGUOUS,Cohort of 120 olfactory patients with viral upper respiratory infection as the commonest cause but dysgeusia reported only for the whole mixed-etiology cohort
+R02644,EXCLUDE,Single case of a 14-year-old with taste disturbance in Guillain-Barre syndrome; case reports under 10 excluded
+R02646,INCLUDE,Controlled study of 40 HIV-infected patients reporting taste detection and identification losses separately from smell
+R02663,EXCLUDE,Single case of post-influenza parageusia; case reports under 10 excluded
+R02669,INCLUDE-TASTE-AMBIGUOUS,Taste and smell clinic series of 441 patients including prior upper respiratory infection causes but taste outcomes by viral cause are not separate in abstract
+R02705,INCLUDE-TASTE-AMBIGUOUS,Study of SARS-CoV-2 persistent olfactory impairment invoking dysgeusia but measuring only olfactory neuroepithelium outcomes
+R02706,INCLUDE,Human and hamster SARS-CoV-2 study explicitly on viral pathogenesis reporting ageusia as an outcome alongside anosmia for Q2
+R02719,INCLUDE-TASTE-AMBIGUOUS,RECOVER cohort selecting participants by self-reported smell or taste change but formal outcome testing is olfactory UPSIT only
+R02729,INCLUDE,Prospective multicentre study of 248 patients performing a basic taste test separately and reporting hypogeusia in COVID-19 diagnosis
+R02742,INCLUDE-TASTE-AMBIGUOUS,Study of 41 recovered COVID-19 patients reporting anosmia/ageusia as a combined symptom with no separate taste result
+R02746,INCLUDE,Cross-sectional study of 688 Omicron SARS-CoV-2 patients evaluating taste with a separate taste visual analogue scale
+R02764,INCLUDE,Global survey of 1352 people with COVID-19 chemosensory impairment reporting taste distortion changes separately after vaccination
+R02773,INCLUDE-TASTE-AMBIGUOUS,No abstract; title reports olfactory and taste dysfunction incidence and recovery in COVID-19 but separate taste reporting cannot be verified
+R02782,EXCLUDE,Google Trends forecasting model for COVID-19 cases using smell and taste search terms with no patient taste dysfunction data
+R02785,INCLUDE-TASTE-AMBIGUOUS,No abstract; title reports nutrition changes due to loss of taste and smell in COVID-19 but separate taste reporting cannot be verified
+R02826,INCLUDE-TASTE-AMBIGUOUS,No abstract; title reports olfactory or taste dysfunction in a COVID-19 population but separate taste reporting cannot be verified
+R02842,INCLUDE,Retrospective TriNetX cohort in long COVID reporting disturbances of taste as a separate outcome with its own hazard ratio
+R02868,EXCLUDE,Treatment study of 64 patients for COVID-19 anosmia only with no taste enrolment criterion or taste outcome
+R02881,EXCLUDE,Clinical case report on differential diagnosis of cacosmia and dysgeusia in COVID-19; case reports under 10 excluded
+R02897,INCLUDE-TASTE-AMBIGUOUS,No abstract; title reports risk factors for COVID-19 anosmia and ageusia but separate taste reporting cannot be verified
+R02916,INCLUDE-TASTE-AMBIGUOUS,Prospective COVID-19 study invoking taste dysfunction but objectifying and reporting only smelling dysfunction with Sniffin Sticks
+R02938,EXCLUDE,Single case of trazodone-induced hypogeusia with negative COVID-19 tests; drug adverse event with no viral taste data and case under 10
+R02972,INCLUDE-TASTE-AMBIGUOUS,Post-COVID smell clinic series of 20 patients collecting dysgeusia as a parameter but abstract results report smell test outcomes only
+R02974,INCLUDE,Longitudinal survey of 1468 COVID-19 patients rating taste function separately from smell and reporting taste recovery over time
+R03018,INCLUDE-TASTE-AMBIGUOUS,Community survey of COVID-19 tested participants reporting loss of smell and taste as a combined predictor variable only
+R03034,EXCLUDE,Google search trend analysis for sensory loss and COVID-19 cases with no patient taste dysfunction data
+R03051,EXCLUDE,Mouse study of R-spondin-2 and taste bud replenishment with no viral infection or viral pathogenesis question
+R03061,EXCLUDE,ClinicalTrials.gov protocol record for COVID-19 in anosmia patients with no results data
+R03098,EXCLUDE,ClinicalTrials.gov protocol record on taste and smell impairment in critically ill COVID-19 patients with no results data
+R03107,EXCLUDE,ClinicalTrials.gov protocol record for the FORECAST smell and taste cohort with no results data
+R03144,EXCLUDE,ClinicalTrials.gov protocol record for a smell therapy trial in post-COVID anosmia with no results data
+R03153,EXCLUDE,ClinicalTrials.gov protocol record for the Malaysian COVID-19 anosmia cross-sectional study with no results data
+R03279,EXCLUDE,ClinicalTrials.gov protocol record on diagnostic value of olfactory disorders in COVID-19 with no results data
+R03297,EXCLUDE,ClinicalTrials.gov protocol record for lactoferrin in COVID-19 taste or smell abnormality with no results data
+R03366,EXCLUDE,ClinicalTrials.gov protocol record for nasal theophylline in COVID-19 smell dysfunction with no results data
+R03389,EXCLUDE,ClinicalTrials.gov protocol record for the Malaysian COVID-19 anosmia case-control study with no results data
+R03454,EXCLUDE,ClinicalTrials.gov protocol record for the Singapore COVID-19 chemosensory tracking study with no results data
+R03491,EXCLUDE,ClinicalTrials.gov protocol record for diode laser in loss of taste sensation with no results data

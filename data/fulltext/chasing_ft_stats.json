@@ -1,0 +1,8 @@
+{
+ "retrieved_screened": 35,
+ "both_include": 20,
+ "both_exclude": 5,
+ "disagreements": 10,
+ "agreement": 0.7143,
+ "kappa": 0.3636
+}

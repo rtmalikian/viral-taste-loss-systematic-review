@@ -1,0 +1,51 @@
+# Gate 5 Re-review — Reviewer R4 (Infectious Diseases / Virology)
+
+- **Date:** 2026-11-21
+- **Scope:** Verification only, against `review_R4.md` and `gate3-editorial-synthesis.md` (consolidated Blockers C-B4, C-B5; R4 Major themes). No manuscript file was edited.
+- **Summary verdict:** **PASS from the R4 remit — all 3 Blockers FIXED, 10 of 11 Majors FIXED, 1 Major PARTIALLY FIXED (R4-15, T9 in the headline ranking only), no Blocker or Major NOT FIXED, and no clear regression found.** The one residual partial does not contradict the text (T9 is now fully accounted for in the Results) and is not, on its own, a reason to hold submission.
+
+## Blockers
+
+- **R4-01 — FIXED.** The four divergent wordings are harmonised to the narrower included/pool claim: Abstract ("in the searches run and the records retrieved and classified, no included study of influenza or any other named virus mapped to any pool"), Background "Etiologies in scope" (385 SARS-CoV-2, 4 unspecified, "none concerns influenza or any other named virus alone"), and Discussion Summary (same included/pool wording). Results characteristics likewise say "no included study examined influenza or another named virus alone."
+- **R4-02 — FIXED.** The qualifier now sits at the point of claim in the Abstract, Background, and Discussion Summary, not only in Limitations; the Abstract Limitations and Discussion "Potential biases" also state the basis for it (five databases and WHO ICTRP not run, 245 reports never retrieved, 99 records awaiting classification). The Discussion "Overall completeness" sentence ("no study of a named non-COVID virus at all") is governed in the same sentence by "the search was built to find… screened 3,501 records… and found," and the PLS version is framed by its included-records counts and its unsearched-databases caveat.
+- **R4-07 — FIXED.** The six narrative/bibliographic reviews are now declared as Difference 7 in the Methods, named by ID (R00592, R01870, R02248, R02295, R02346, R02354; 16 assignments), and a primary-evidence sensitivity count is given there, in the Q2 Results, and in Limitations: excluding them leaves 217 coded studies and 393 assignments (speculative 160/217, 73.7%), with every direct-human count in Table 3 unchanged and no theory verdict changing — i.e. the earlier assertion that Q2 conclusions do not rest on them is now shown, not merely asserted.
+
+## Majors
+
+- **R4-03 — FIXED (PLS virus bounding).** The PLS now gives the body counts plainly (385 COVID-19, 4 unspecified possible virus, none flu or any other named virus, "so everything that follows is about COVID-19"), notes the unsearched databases, and closes its pathogenesis paragraph with "All of this explanation evidence is about COVID-19 only." The generic opening sentence remains, but it is immediately and explicitly bounded, and "the virus infecting taste buds" no longer stands unqualified.
+- **R4-04 — FIXED (Q2 indirectness).** The Abstract's pathogenesis sentences now name the virus at the point of the verdict ("all 223 studies carrying a mechanism code concern SARS-CoV-2"), the Q2 Results opening repeats "Every one of the 223 studies concerns SARS-CoV-2" (sole other-virus experimentation: HCoV-OC43 alongside SARS-CoV-2 in R00710), and the PLS states the same bound — the mechanism ranking can no longer be read as a general viral ranking.
+- **R4-09 — FIXED (taxonomy transferability).** The taxonomy presentation in Background now carries all three cautions together, including that the taxonomy "is partly shaped by the virus that dominates the evidence," that T1 is defined around ACE2/TMPRSS2-type entry, "an entry route influenza and most other respiratory viruses do not use," and that entry-factor plausibility rankings "cannot be carried across viruses with different receptors and tissue tropism."
+- **R4-10 — FIXED (T4 as measurement claim).** Background states verbatim in substance that "T4 is not a tissue mechanism: it is a claim about measurement and attribution, about what a symptom report means, and it competes with the tissue theories only at that level." The Results and Abstract treat T4 as olfactory-mediated misattribution, so its coherence support no longer reads as a tissue-pathogenesis result.
+- **R4-11 — FIXED (multi-code upper bound).** The Q2 opening states 108 of 223 coded studies (48.4%) carry two or more codes, and the Table 3 note states that because directness is a study-level grade propagated to each code, "every per-theory direct-human count in this table is an upper bound, and direct counts must not be summed across theories" (with the T8/T9 co-code example retained).
+- **R4-12 — FIXED by declaration (variant/era stratification).** No variant- or era-stratified estimate has been added, and that absence is now explicit rather than silent: Difference 9 in the Methods lists the confirmation, duration, age, variant-or-era, and treatment-class subgroups as not run (virus constant in the event), and Implications for Research states "SARS-CoV-2 is pooled here as one entity and no variant-stratified estimate was run, although variant is a plausible source of the heterogeneity that the reported subgroups do not explain." The monolith pooling is therefore disclosed at the point a reader needs it.
+- **R4-15 — PARTIALLY FIXED (headline ranking).** The raw ranking and its framing are restored in the Abstract, Results, and Discussion Summary: raw direct-human order T11 (5), T5 (4), T1 and T4 (3 each), explicitly labelled misleading, with the T5/T4/T1 list presented only "on coherence grounds" / as the "coherence-adjusted" reading and T11's five unrelated tests named. The residual is T9: it is now fully credited in the Results narrative (see R4-19), so the earlier internal contradiction is gone, but T9 still does not appear in the Abstract or Discussion headline best-supported sentence alongside T4/T5.
+- **R4-16 — FIXED (T1 wording).** The Abstract now reads "no demonstration of infection of human taste buds in vivo," and the Results T1 paragraph states plainly "None of the three demonstrates infection of human taste buds in vivo: they sample nasal and pharyngeal tissue, genetic association, and taste thresholds" (R00058 null, R00840, R01523), with T1's most taste-bud-specific support correctly located in vitro (R00710) and in animal expression work.
+- **R4-17 — FIXED (T5 composite-outcome caveat).** The Results T5 paragraph now states that three of its four direct-human studies (R00084, R01294, R00066) "were measured against composite smell-and-taste or dysosmia/dysgeusia outcomes rather than taste-specific outcomes, so T5's taste-specific directness is weaker than its count suggests," alongside the retained caveat that the taste-bud-turnover half of the label is unmeasured in any included human study.
+- **R4-18 — FIXED (T4 evidence grouping).** All three mis-groupings are corrected in one paragraph: T4 is "supported by two purpose-built objective-testing studies and one survey"; C4367 is a prospective survey of self-differentiation (60% rising to 88.9%), "not a psychophysical test"; the 23.5% objectively hypogeusic figure (R00232) is attributed to "a study graded mixed as stated"; and C11888's 86.7–96.7% per taste quality is now given "among the 30 participants tested."
+- **R4-19 — FIXED (T9's second direct study).** The Results now account for both of T9's direct-human studies in Table 3: the diffusion-MRI study (R00185) and "a second direct-human study, of decreased vividness of taste mental imagery (R01073, patient-reported)." Table and narrative are reconciled on T9 (its absence from the headline sentence is recorded under R4-15).
+
+## Minors — spot-check
+
+**6 of 7 FIXED, 1 PARTIALLY FIXED, 0 not fixed.**
+
+- R4-06 FIXED: Discussion "Overall completeness" now qualifies other-virus capture — influenza is named in both run strings, but "capture of other named viruses depends on generic virus terms appearing in title or abstract, a real limit on the net."
+- R4-08 FIXED: Difference 8 declares the sixth grade, "mixed as stated" (14 studies, 39 assignments), against the protocol's five grades, reported as its own column and never silently allocated.
+- R4-13 FIXED: the taxonomy list now cautions that T2's "sustentacular" label is imported from the olfactory literature, used by the source papers as an analogy, "not as settled taste anatomy."
+- R4-14 FIXED: the Table 3 note discloses that 9 of the 28 T11 records carry no specification of their "other" mechanism, "so for nearly a third of the residual category the mechanism cannot be named."
+- R4-20 FIXED: T8's indirect support now prints the D-dimer numbers — R01957, means 0.54 ± 0.32 versus 0.49 ± 0.51 mg/L FEU — characterised as "a trivial and widely overlapping difference in a non-specific marker."
+- R4-21 FIXED: T2's entry now includes its indirect-human study (R02077, oral mucosal epithelial inflammation/damage), and T3's entry now includes the animal-graded R02218 among its non-speculative support (R02218 is also correctly shown in T2's animal tally).
+- R4-05 PARTIALLY FIXED: the Background body claim is reframed as the author's training-and-practice experience ("in the author's training and practice, taste disturbance was a recognised accompaniment of upper respiratory infections"), but the Abstract Background sentence "Loss or distortion of taste is a common complaint during and after viral infections" still stands with no citation.
+
+## Nits — spot-check
+
+**3 of 3 FIXED.**
+
+- R4-22 FIXED: unit corrected — Abstract and Results now read "73.5% of those studies were graded speculative" (share of the 223 Q2 studies, not of grades).
+- R4-23 FIXED: the superlative is removed; the text now says SARS-CoV-2 "produced taste complaints on a scale that filled the literature within months" (Abstract: "reported at very large scale during the COVID-19 pandemic").
+- R4-24 FIXED: the T11 paragraph now notes "Two of T11's five direct studies (R00044, R00066) are the same studies counted as direct evidence for T5," preventing double-counting across theories.
+
+## Regressions
+
+None identified in the R4 remit. In particular, the new headline ranking, the T1 in-vivo wording, and the bounded no-other-virus wording are consistent across Abstract, Results, and Discussion, and Table 3's counts are unchanged by the revisions.
+
+*End of R4 re-review.*

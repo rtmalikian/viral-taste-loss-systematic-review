@@ -1,0 +1,23 @@
+{
+ "sought_full_text": 634,
+ "not_retrieved": 226,
+ "not_retrieved_no_oa": 181,
+ "not_retrieved_paywalled_closed": 45,
+ "assessed_full_text": 408,
+ "excluded_full_text": 45,
+ "included_full_text_pre_chasing": 363,
+ "included_by_question_provisional": {
+  "Q1": 330,
+  "Q2": 282,
+  "Q3": 71
+ },
+ "ft_screening": {
+  "retrieved_screened": 408,
+  "both_include": 336,
+  "both_exclude": 18,
+  "disagreements": 54,
+  "agreement": 0.8676,
+  "kappa": 0.3468
+ },
+ "coordinator_verification_corrections": 5
+}

@@ -1,0 +1,218 @@
+[
+ {
+  "record_id": "R01000",
+  "outcome": "complete",
+  "window": "<=4 weeks",
+  "timepoint": "recovery within <=28 days (survey recall)"
+ },
+ {
+  "record_id": "R01151",
+  "outcome": "complete",
+  "window": "<=4 weeks",
+  "timepoint": "day 28 (T4, Burghart Taste Strips = 4)"
+ },
+ {
+  "record_id": "R01298",
+  "outcome": "complete",
+  "window": "<=4 weeks",
+  "timepoint": "by 4 weeks"
+ },
+ {
+  "record_id": "R01612",
+  "outcome": "complete",
+  "window": "<=4 weeks",
+  "timepoint": "2 weeks"
+ },
+ {
+  "record_id": "R01710",
+  "outcome": "complete",
+  "window": "<=4 weeks",
+  "timepoint": "day 14"
+ },
+ {
+  "record_id": "R01943",
+  "outcome": "complete",
+  "window": "<=4 weeks",
+  "timepoint": "day 14"
+ },
+ {
+  "record_id": "R01965",
+  "outcome": "complete",
+  "window": "<=4 weeks",
+  "timepoint": "day 14 after positive swab"
+ },
+ {
+  "record_id": "R02302",
+  "outcome": "complete",
+  "window": "<=4 weeks",
+  "timepoint": "day 20 after diagnosis"
+ },
+ {
+  "record_id": "R02358",
+  "outcome": "complete",
+  "window": "<=4 weeks",
+  "timepoint": "by end of follow-up (to 25 Mar 2020; dysgeusia durations <=17 days)"
+ },
+ {
+  "record_id": "R02773",
+  "outcome": "complete",
+  "window": "<=4 weeks",
+  "timepoint": "by 4 weeks (follow-up until recovery or 4 weeks)"
+ },
+ {
+  "record_id": "R00987",
+  "outcome": "complete",
+  "window": ">4-12 weeks",
+  "timepoint": "1 month"
+ },
+ {
+  "record_id": "R01166",
+  "outcome": "complete",
+  "window": ">4-12 weeks",
+  "timepoint": "within 30 days of GD onset"
+ },
+ {
+  "record_id": "R01478",
+  "outcome": "complete",
+  "window": ">4-12 weeks",
+  "timepoint": "5 weeks (end of weekly follow-up)"
+ },
+ {
+  "record_id": "R01612",
+  "outcome": "complete",
+  "window": ">4-12 weeks",
+  "timepoint": "2 months"
+ },
+ {
+  "record_id": "R01628",
+  "outcome": "complete",
+  "window": ">4-12 weeks",
+  "timepoint": "2 months"
+ },
+ {
+  "record_id": "R01739",
+  "outcome": "complete",
+  "window": ">4-12 weeks",
+  "timepoint": "by ~45 days (telephone interview follow-up)"
+ },
+ {
+  "record_id": "R01742",
+  "outcome": "complete",
+  "window": ">4-12 weeks",
+  "timepoint": "median 61 days from onset (survey)"
+ },
+ {
+  "record_id": "R01856",
+  "outcome": "complete",
+  "window": ">4-12 weeks",
+  "timepoint": "by 8 weeks (cumulative recovery intervals)"
+ },
+ {
+  "record_id": "R01878",
+  "outcome": "complete",
+  "window": ">4-12 weeks",
+  "timepoint": "30 days after first negative swab"
+ },
+ {
+  "record_id": "R01978",
+  "outcome": "complete",
+  "window": ">4-12 weeks",
+  "timepoint": "median 52 days (questionnaire)"
+ },
+ {
+  "record_id": "C8932",
+  "outcome": "complete",
+  "window": ">4-12 weeks",
+  "timepoint": "mean 63 +/- 9 days (range 60-76)"
+ },
+ {
+  "record_id": "R00084",
+  "outcome": "complete",
+  "window": ">12 weeks",
+  "timepoint": "90 days post-discharge"
+ },
+ {
+  "record_id": "R00546",
+  "outcome": "complete",
+  "window": ">12 weeks",
+  "timepoint": "T1, mean 8.4 months post-discharge"
+ },
+ {
+  "record_id": "R00987",
+  "outcome": "complete",
+  "window": ">12 weeks",
+  "timepoint": "18 months"
+ },
+ {
+  "record_id": "R01110",
+  "outcome": "complete",
+  "window": ">12 weeks",
+  "timepoint": "mean 9.5 months (283.9 days)"
+ },
+ {
+  "record_id": "R01166",
+  "outcome": "complete",
+  "window": ">12 weeks",
+  "timepoint": "6 months"
+ },
+ {
+  "record_id": "R01236",
+  "outcome": "complete",
+  "window": ">12 weeks",
+  "timepoint": "by end of 3-month follow-up"
+ },
+ {
+  "record_id": "R01628",
+  "outcome": "complete",
+  "window": ">12 weeks",
+  "timepoint": "4 months"
+ },
+ {
+  "record_id": "R01695",
+  "outcome": "complete",
+  "window": ">12 weeks",
+  "timepoint": "mean 229 days (range 191-253)"
+ },
+ {
+  "record_id": "R01758",
+  "outcome": "complete",
+  "window": ">12 weeks",
+  "timepoint": "6 months"
+ },
+ {
+  "record_id": "R02302",
+  "outcome": "any",
+  "window": "<=4 weeks",
+  "timepoint": "day 20 after diagnosis"
+ },
+ {
+  "record_id": "R00084",
+  "outcome": "any",
+  "window": ">12 weeks",
+  "timepoint": "90 days post-discharge"
+ },
+ {
+  "record_id": "R00415",
+  "outcome": "any",
+  "window": ">12 weeks",
+  "timepoint": "follow-up interview, median 41 weeks from diagnosis"
+ },
+ {
+  "record_id": "R00730",
+  "outcome": "any",
+  "window": ">12 weeks",
+  "timepoint": "12-14 months"
+ },
+ {
+  "record_id": "R01695",
+  "outcome": "any",
+  "window": ">12 weeks",
+  "timepoint": "mean 229 days"
+ },
+ {
+  "record_id": "R01758",
+  "outcome": "any",
+  "window": ">12 weeks",
+  "timepoint": "6 months"
+ }
+]

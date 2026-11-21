@@ -1,0 +1,18 @@
+{
+ "label": "q1_freq_psychophysical",
+ "k": 15,
+ "crude_events": 1123,
+ "crude_total": 2355,
+ "crude_proportion": 0.47685774946921444,
+ "pooled_proportion": 0.47433927192157294,
+ "ci_lo": 0.36974262806100966,
+ "ci_hi": 0.58123731445218,
+ "tau2_logit": 0.545781823488688,
+ "I2_percent": 93.83708303043598,
+ "Q": 227.16515684277317,
+ "Q_df": 14,
+ "Q_p": 0.0,
+ "pi_lo": 0.1472127609795414,
+ "pi_hi": 0.8250819090048934,
+ "method": "logit proportions; REML tau2 (profile likelihood); Hartung-Knapp CI; PI t(k-2)"
+}

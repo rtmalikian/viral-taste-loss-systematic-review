@@ -1,0 +1,18 @@
+{
+ "label": "q1_rec_complete_4to12",
+ "k": 11,
+ "crude_events": 1789,
+ "crude_total": 2085,
+ "crude_proportion": 0.8580335731414868,
+ "pooled_proportion": 0.8523901085865746,
+ "ci_lo": 0.699767624314444,
+ "ci_hi": 0.9346705502217687,
+ "tau2_logit": 1.67478870913631,
+ "I2_percent": 95.00693126213447,
+ "Q": 200.27763535806793,
+ "Q_df": 10,
+ "Q_p": 0.0,
+ "pi_lo": 0.2115574355113072,
+ "pi_hi": 0.9920176320634753,
+ "method": "logit proportions; REML tau2 (profile likelihood); Hartung-Knapp CI; PI t(k-2)"
+}

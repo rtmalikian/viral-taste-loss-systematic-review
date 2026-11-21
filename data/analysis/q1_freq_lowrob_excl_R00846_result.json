@@ -1,0 +1,18 @@
+{
+ "label": "q1_freq_lowrob_excl_R00846",
+ "k": 33,
+ "crude_events": 5392,
+ "crude_total": 11929,
+ "crude_proportion": 0.45200771229776177,
+ "pooled_proportion": 0.4729128596270559,
+ "ci_lo": 0.3764558853488438,
+ "ci_hi": 0.5714352044730225,
+ "tau2_logit": 1.1894506620793694,
+ "I2_percent": 97.95611342713234,
+ "Q": 1565.6446118290553,
+ "Q_df": 32,
+ "Q_p": 0.0,
+ "pi_lo": 0.0856550607617848,
+ "pi_hi": 0.8957593940333675,
+ "method": "logit proportions; REML tau2 (profile likelihood); Hartung-Knapp CI; PI t(k-2)"
+}
