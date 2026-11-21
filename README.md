@@ -14,6 +14,8 @@ Independent researcher. This review is written from a family medicine perspectiv
 
 Version 1.0, 21 November 2026. This review follows Cochrane Handbook methods (version 6.5, 2024) and reports to PRISMA 2020 and PRISMA-S. It is a Cochrane-level review. It is not a Cochrane review and has not been submitted to Cochrane.
 
+**DOI:** [10.5281/zenodo.24418147](https://doi.org/10.5281/zenodo.24418147) (Zenodo record: https://zenodo.org/records/24418147)
+
 **Registration.** A protocol was locked on 20 November 2026, before screening, and a PROSPERO-ready form was prepared from it the same day. The review is not registered: no PROSPERO registration number exists, and none is claimed.
 
 **Funding.** None. **Conflicts of interest.** None.
@@ -45,4 +47,4 @@ This work is published under the **Malikian Attribution — Non-Commercial Licen
 
 ## Citation
 
-Malikian R. Loss of taste in possible viral infection: etiologies, pathogenesis, and the evidence for treatments. A Cochrane-level systematic review and meta-analysis where poolable. Version 1.0, 2026. GitHub: https://github.com/rtmalikian/viral-taste-loss-systematic-review
+Malikian R. Loss of taste in possible viral infection: etiologies, pathogenesis, and the evidence for treatments. A Cochrane-level systematic review and meta-analysis where poolable. Version 1.0, 2026. DOI: https://doi.org/10.5281/zenodo.24418147. GitHub: https://github.com/rtmalikian/viral-taste-loss-systematic-review
